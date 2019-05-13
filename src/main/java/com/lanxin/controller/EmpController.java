@@ -13,5 +13,7 @@ public class EmpController {
 
     private String sex;
 
+    private Integer age;
+
 
 }
