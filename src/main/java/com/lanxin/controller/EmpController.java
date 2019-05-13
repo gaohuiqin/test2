@@ -6,4 +6,6 @@ package com.lanxin.controller;
 public class EmpController {
     private String username;
 
+    private String password;
+
 }
