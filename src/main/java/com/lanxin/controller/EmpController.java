@@ -8,4 +8,7 @@ public class EmpController {
 
     private String password;
 
+    private String sex;
+
+
 }
